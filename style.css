@@ -13,7 +13,7 @@
     }
     
 .circle{
-    background: url(image/bloom.jpg)no-repeat;
+    background: url(image/bloom.jpg) no-repeat;
     min-width: 250px;
     min-height: 250px;
     background-size: auto 250px;
