@@ -13,13 +13,21 @@
     }
     
 .circle{
-    background: url(image/bloom.jpg) center no-repeat;
-    min-width: 250px;
+  background: url(image/bloom.jpg)no-repeat;
+  /*  min-width: 250px;
     min-height: 250px;
     border-radius: 100%;
     background-size: auto 250px;
     margin-top: 20px;
-    background-size: cover;
+    background-size: cover;*/
+
+
+    margin-bottom: 20px;
+    min-width: 200px;
+    min-height: 200px;
+    border-radius: 50%;
+    background-size: auto 300px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
    
 }
 h1{
